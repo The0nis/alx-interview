@@ -1,4 +1,4 @@
-# :book: Interview Questions.
+# :book: Interview Question.
 ## Topics Covered.
 1. Python List, List Comprehession.
 
